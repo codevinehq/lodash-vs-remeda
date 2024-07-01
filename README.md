@@ -2,6 +2,8 @@ We use 64 methods from Lodash at the moment. This app compares bundle size using
 
 See bundle size using `npm run build && npx vite-bundle-visualizer`
 
+Results = https://lodash-v-remeda.surge.sh/
+
 - Lodash - https://github.com/codevinehq/lodash-vs-remeda/blob/main/src/lodash.ts
 - Remeda - https://github.com/codevinehq/lodash-vs-remeda/blob/main/src/remeda.ts
 
